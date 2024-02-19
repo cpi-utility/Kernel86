@@ -1,0 +1,13 @@
+Needs to develop:
+    - echo
+    - dd
+    - cat
+    - cd
+    - mv
+    - mkdir
+    - rm
+    - rmdir
+    - sh
+    - pwd
+    - ls
+    - chmod
